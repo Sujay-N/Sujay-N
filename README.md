@@ -1,4 +1,8 @@
-## Hi there 👋
+Sujay is an experienced Solutions Architect and relishes learning and leveraging new technologies, curating the value proposition that solves business pains.
+ 
+Across different domains such as Conversational AI, Digital Adoption platforms and Integration platforms, his 5+ years of experience includes solutioning, implementing and integrating SaaS applications in a techno functional role.
+
+Outside of work, he enjoys gaming, traveling and the journey of self discovery!
 
 <!--
 **Sujay-N/Sujay-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
