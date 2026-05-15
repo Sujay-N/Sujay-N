@@ -1,8 +1,74 @@
-Sujay is an experienced Solutions Architect and relishes learning and leveraging new technologies, curating the value proposition that solves business pains.
- 
-Across different domains such as Conversational AI, Digital Adoption platforms and Integration platforms, his 5+ years of experience includes solutioning, implementing and integrating SaaS applications in a techno functional role.
+# Hey there 👋 I'm Sujay Nagaraj
 
-Outside of work, he enjoys gaming, traveling and the journey of self discovery!
+### Solutions Architect | AI & Automation Enthusiast | Integration Specialist
+
+I’m a Sr. Solutions Consultant with 6+ years of experience designing, implementing, and integrating SaaS platforms across domains like:
+
+- 🤖 Conversational AI
+- 🔄 Enterprise Integration & Automation
+- 🚀 Digital Adoption Platforms
+- 🧠 AI-driven Workflow Orchestration
+
+I enjoy leveraging emerging technologies to solve real business problems and create scalable, high-impact solutions.
+
+Currently exploring:
+- ⚡ Agentic AI & MCP
+- 🔗 Enterprise Automation with Workato
+- 📊 Intelligent SaaS Integrations
+- 🌐 AI-powered orchestration ecosystems
+
+---
+
+## 🛠️ Core Skills
+
+- Workato
+- Solution Architecture
+- API Integrations
+- Conversational AI
+- SaaS Implementations
+- Automation Strategy
+- Workflow Orchestration
+- Pre-sales & Solution Consulting
+- JavaScript
+
+---
+
+## 🏆 Certifications
+
+- ✅ Workato
+- ✅ Demo2Win!
+- ✅ Discovery2Win! 
+- ✅ Value Based Selling
+- ✅ Technical Sales: The Role of the Sales Engineer
+- ✅ JavaScript – HackerRank
+- ✅ Problem Solving – HackerRank
+
+---
+
+## 🚀 What I Love Building
+
+- AI-powered automations
+- Enterprise integrations
+- Intelligent workflows
+- SaaS ecosystems
+- Developer enablement
+- Scalable customer solutions
+
+---
+
+## 🌍 Beyond Work
+
+Outside of work, you’ll probably find me:
+- 🎮 Gaming
+- ✈️ Traveling
+- 📚 Exploring self-discovery & personal growth
+- ☕ Experimenting with new tech and AI trends
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Sujay Nagaraj on LinkedIn](https://www.linkedin.com/in/sujay-nagaraj)
 
 <!--
 **Sujay-N/Sujay-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
